@@ -1,0 +1,10 @@
+[package]
+name = "gtfs-to-sqlite"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+dotenv = "0"
+rusqlite = "0"
+zip = "4"
